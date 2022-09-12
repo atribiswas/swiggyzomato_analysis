@@ -11,7 +11,7 @@ We all love food that arrives to us in time in proper condition, right? But the 
 5.  Exact frequency of deliveries of each day over 24 hour period
 
 
-Check out the .ipynb file to learn more!
+Check out the [main file](https://github.com/atribiswas/swiggyzomato_analysis/blob/main/main.md) to learn more!
 
 Thanks!
 
